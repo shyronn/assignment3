@@ -82,7 +82,102 @@ h1 span {
     background-color: grey; 
     background-image: url(../images/ellen-d.jpg);
     background-repeat: no-repeat;
-    background-size: 25rem;
+    background-size: 22rem;
+    background-position: center center;
+    height: 8rem;
+    margin: 1.5rem 5%;
+        
+    box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
+    
+    border: solid .5rem rgba(255, 229, 0, 1);
+    
+    
+}
+
+.mark-w {
+    margin: 0 3% 1rem;
+    overflow: hidden;
+    
+    background-color: grey; 
+    background-image: url(../images/mark-w.jpg);
+    background-repeat: no-repeat;
+    background-size: 22rem;
+    background-position: center center;
+    height: 8rem;
+    margin: 1.5rem 5%;
+        
+    box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
+    
+    border: solid .5rem rgba(255, 229, 0, 1);
+    
+    
+}
+
+.sofia-v {
+    margin: 0 3% 1rem;
+    overflow: hidden;
+    
+    background-color: grey; 
+    background-image: url(../images/sofia-v.jpg);
+    background-repeat: no-repeat;
+    background-size: 22rem;
+    background-position: center center;
+    height: 8rem;
+    margin: 1.5rem 5%;
+        
+    box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
+    
+    border: solid .5rem rgba(255, 229, 0, 1);
+    
+    
+}
+
+.jamie-o {
+    margin: 0 3% 1rem;
+    overflow: hidden;
+    
+    background-color: grey; 
+    background-image: url(../images/jamie-o.jpg);
+    background-repeat: no-repeat;
+    background-size: 22rem;
+    background-position: center center;
+    height: 8rem;
+    margin: 1.5rem 5%;
+        
+    box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
+    
+    border: solid .5rem rgba(255, 229, 0, 1);
+    
+    
+}
+
+.michael-p {
+    margin: 0 3% 1rem;
+    overflow: hidden;
+    
+    background-color: grey; 
+    background-image: url(../images/michael-p.jpg);
+    background-repeat: no-repeat;
+    background-size: 22rem;
+    background-position: center center;
+    height: 8.5rem;
+    margin: 1.5rem 5%;
+        
+    box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
+    
+    border: solid .5rem rgba(255, 229, 0, 1);
+    
+    
+}
+
+.kanyne-w {
+    margin: 0 3% 1rem;
+    overflow: hidden;
+    
+    background-color: grey; 
+    background-image: url(../images/kanye-w.jpg);
+    background-repeat: no-repeat;
+    background-size: 22rem;
     background-position: center center;
     height: 8rem;
     margin: 1.5rem 5%;
