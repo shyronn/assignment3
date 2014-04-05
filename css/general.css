@@ -39,6 +39,18 @@ header {
     height: rem;
 }
 
+h1 {
+    margin: 7rem 0;
+    font-weight: normal;
+    font-size: 2rem;
+    color: white;
+    padding: .5rem;
+    letter-spacing: -.05rem;
+    text-align: right
+
+        }
+        
+
 .billboard {
     overflow: hidden;
     background-image: url(../images/headphones.jpg);
