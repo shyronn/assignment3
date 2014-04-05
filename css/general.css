@@ -64,6 +64,7 @@ h1 span {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 50rem;
+    
 }
 
 .logo {
@@ -73,3 +74,18 @@ h1 span {
     margin: 1.5rem 3%;
 }
 
+.ellen-d {
+    margin: 0 3% 1rem;
+    overflow: hidden;
+    
+    background-color: grey; 
+    background-image: url(../images/ellen-d.jpg);
+    background-repeat: no-repeat;
+    background-size: 50rem;
+    background-position: center center;
+        
+    box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
+    
+    border: solid .5rem rgba(255, 215, 0, .8);
+    
+}
