@@ -48,7 +48,13 @@ h1 {
     letter-spacing: -.05rem;
     text-align: right
 
-        }
+}
+
+h1 span {
+    font-size: 2.5rem;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    letter-spacing: .05rem;
+}
         
 
 .billboard {
