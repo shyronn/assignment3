@@ -241,3 +241,24 @@ h2 span {
     
     
 }
+
+footer {
+    margin:0;
+    padding: 1.5rem 5% 6rem;
+    background-color: #FCEE21;
+    
+}
+
+.logo2 {
+    height: 3rem;
+    width: auto;
+    padding: .5rem 3%;
+    float: left;
+}
+
+footer p {
+    font-size: 1.5rem;
+    margin: 1rem 15% 1rem;
+    color: black;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
