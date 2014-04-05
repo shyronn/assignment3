@@ -25,9 +25,9 @@ html {
 
 body {
     margin: 0;
-    padding: 0;
-    
-}    
+    padding: 0;   
+}
+
 img {
 	width: 100%;
     display: block;
@@ -36,57 +36,7 @@ img {
 header {
     overflow: hidden;
     background-color: black;
-    height: 9rem;
-    
-}
-
-article {
-    margin: 0;
-    padding: 0 5%;
-    overflow: hidden;
-    line-height: 1.5rem;
-}
-
-h1 {
-    margin: 7rem 0;
-    font-weight: normal;
-    font-size: 2rem;
-    color: white;
-    padding: .5rem;
-    letter-spacing: -.05rem;
-    text-align: right
-
-}
-
-h1 span {
-    font-size: 2.5rem;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    letter-spacing: .05rem;
-}
-
-h2 {
-    color: grey;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    letter-spacing: +.03rem;
-    text-transform: uppercase;
-    line-height: 2rem;
-    
-}
-
-h2 span {
-    color: red;
-}
-        
-
-.billboard {
-    overflow: hidden;
-    background-image: url(../images/headphones.jpg);
-    background-color: black;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: 40rem;
-    margin: auto;
-    
+    height: 9rem;  
 }
 
 .logo {
@@ -97,7 +47,6 @@ h2 span {
 
 .nav-top {
     clear: both;
-
 }
 
 .nav-top ul {
@@ -123,10 +72,53 @@ h2 span {
     color: black;
     font-size: 1.25rem;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    text-decoration: none;
-    
+    text-decoration: none;   
 }
 
+h1 {
+    margin: 7rem 0;
+    font-weight: normal;
+    font-size: 2rem;
+    color: white;
+    padding: .5rem;
+    letter-spacing: -.05rem;
+    text-align: right
+}
+
+h1 span {
+    font-size: 2.5rem;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    letter-spacing: .05rem;
+}  
+
+.billboard {
+    overflow: hidden;
+    background-image: url(../images/headphones.jpg);
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 40rem;
+    margin: auto;   
+}
+
+article {
+    margin: 0;
+    padding: 0 5%;
+    overflow: hidden;
+    line-height: 1.5rem;
+}
+
+h2 {
+    color: grey;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    letter-spacing: +.03rem;
+    text-transform: uppercase;
+    line-height: 2rem;  
+}
+
+h2 span {
+    color: red;
+}
 
 .ellen-d {
     margin: 0 3% 1rem;
@@ -142,9 +134,7 @@ h2 span {
         
     box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
     
-    border: solid .5rem rgba(252, 238, 33, 1);
-    
-    
+    border: solid .5rem rgba(252, 238, 33, 1);   
 }
 
 .mark-w {
@@ -161,9 +151,7 @@ h2 span {
         
     box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
     
-    border: solid .5rem rgba(252, 238, 33, 1);
-    
-    
+    border: solid .5rem rgba(252, 238, 33, 1);  
 }
 
 .sofia-v {
@@ -181,8 +169,6 @@ h2 span {
     box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
     
     border: solid .5rem rgba(252, 238, 33, 1);
-    
-    
 }
 
 .jamie-o {
@@ -199,9 +185,7 @@ h2 span {
         
     box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
     
-    border: solid .5rem rgba(252, 238, 33, 1);
-    
-    
+    border: solid .5rem rgba(252, 238, 33, 1); 
 }
 
 .michael-p {
@@ -218,9 +202,7 @@ h2 span {
         
     box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
     
-    border: solid .5rem rgba(252, 238, 33, 1);
-    
-    
+    border: solid .5rem rgba(252, 238, 33, 1);      
 }
 
 .kanyne-w {
@@ -237,30 +219,27 @@ h2 span {
         
     box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
     
-    border: solid .5rem rgba(252, 238, 33, 1);
-    
-    
+    border: solid .5rem rgba(252, 238, 33, 1);  
 }
 
 footer {
     margin:0;
     padding: 1.5rem 5% 6rem;
-    background-color: #FCEE21;
-    
+    background-color: #FCEE21; 
 }
 
 .logo2 {
-    height: 3rem;
+    height: 5rem;
     width: auto;
     padding: .5rem 3%;
     float: left;
 }
 
 footer p {
-    font-size: 1.5rem;
     margin: 1rem 15% 1rem;
     color: black;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+     line-height: .5rem;
 }
 
 
