@@ -64,6 +64,7 @@ h1 span {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 50rem;
+    margin: auto;
     
 }
 
@@ -81,11 +82,14 @@ h1 span {
     background-color: grey; 
     background-image: url(../images/ellen-d.jpg);
     background-repeat: no-repeat;
-    background-size: 50rem;
+    background-size: 25rem;
     background-position: center center;
+    height: 12rem;
+    margin: 1.5rem 3%;
         
     box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
     
-    border: solid .5rem rgba(255, 215, 0, .8);
+    border: solid .5rem rgba(255, 229, 0, 1);
+    
     
 }
