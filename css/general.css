@@ -20,7 +20,7 @@ html {
     
     font-size: 100%;
     font-family: Georgia, Times, serif;
-    color: white;
+    color: black;
 }
 
 body {
@@ -36,7 +36,7 @@ img {
 header {
     overflow: hidden;
     background-color: black;
-    height: rem;
+    height: 5rem;
 }
 
 h1 {
@@ -86,7 +86,6 @@ h1 span {
     background-position: center center;
     height: 8rem;
     margin: 1.5rem 5%;
-    color: black;
         
     box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
     
