@@ -266,8 +266,9 @@ footer p {
 	border-radius: 75px;
 	background-image: url(../images/ellen-d.jpg);
     background-repeat: no-repeat;
-    border: solid rem rgba(252, 238, 33, 1);
-	}
+    background-position: center center;
+    background-size: 25rem;
+}
 
 
 
