@@ -257,7 +257,7 @@ footer p {
     overflow: hidden;
     
     background-color: grey; 
-    background-image: url(../images/ellen-d.jpg);
+    background-image: url(../images/nyu.jpg);
     background-repeat: no-repeat;
     background-size: 22rem;
     background-position: center center;
@@ -272,10 +272,10 @@ footer p {
 .steve-j{
     width: 8rem;
 	height: 8rem;
-	background-image: url(../images/ellen-d.jpg);
+	background-image: url(../images/steve-j.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 18rem;
+    background-size: 7rem;
     margin: 1.5rem 0%;
     
     box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
@@ -288,10 +288,10 @@ footer p {
 .sarah-w{
     width: 8rem;
 	height: 8rem;
-	background-image: url(../images/ellen-d.jpg);
+	background-image: url(../images/sarah-w.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 18rem;
+    background-size: 7rem;
     margin: 1.5rem 0%;
     
     box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
@@ -302,10 +302,10 @@ footer p {
 .steve-d{
     width: 8rem;
 	height: 8rem;
-	background-image: url(../images/ellen-d.jpg);
+	background-image: url(../images/steve-d.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 18rem;
+    background-size: 7rem;
     margin: 1.5rem 0%;
     
     box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
@@ -316,10 +316,10 @@ footer p {
 .ashley-t{
     width: 8rem;
 	height: 8rem;
-	background-image: url(../images/ellen-d.jpg);
+	background-image: url(../images/ashley-t.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 18rem;
+    background-size: 7rem;
     margin: 1.5rem 0%;
     
     box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
@@ -330,10 +330,10 @@ footer p {
 .blair-d{
     width: 8rem;
 	height: 8rem;
-	background-image: url(../images/ellen-d.jpg);
+	background-image: url(../images/blair-d.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 18rem;
+    background-size: 7rem;
     margin: 1.5rem 0%;
     
     box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
@@ -344,10 +344,10 @@ footer p {
 .tracy-m{
     width: 8rem;
 	height: 8rem;
-	background-image: url(../images/ellen-d.jpg);
+	background-image: url(../images/tracy-m.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 18rem;
+    background-size: 7rem;
     margin: 1.5rem 0%;
     
     box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
