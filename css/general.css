@@ -275,6 +275,20 @@ footer p {
     border-radius: 5rem;
 }
 
+.steve-j{
+    width: 10rem;
+	height: 10rem;
+	background-image: url(../images/ellen-d.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 25rem;
+    margin: 1.5rem 0%;
+    
+    box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
+    
+    border: solid .5rem rgba(252, 238, 33, 1);
+    border-radius: 5rem;
+
 
 
 
