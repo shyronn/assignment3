@@ -75,6 +75,11 @@ header {
     text-decoration: none;   
 }
 
+.selected {
+    background-color: grey;
+    
+}
+
 h1 {
     margin: 7rem 0;
     font-weight: normal;
