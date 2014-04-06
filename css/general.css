@@ -259,7 +259,7 @@ footer p {
     background-color: grey; 
     background-image: url(../images/nyu.jpg);
     background-repeat: no-repeat;
-    background-size: 22rem;
+    background-size: 25rem;
     background-position: center center;
     height: 15rem;
     margin: 1.5rem 0%;
@@ -267,8 +267,8 @@ footer p {
     box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
     
     border: solid .5rem rgba(252, 238, 33, 1); 
-    
 }
+
 .steve-j{
     width: 8rem;
 	height: 8rem;
@@ -361,9 +361,9 @@ footer p {
     overflow: hidden;
     
     background-color: grey; 
-    background-image: url(../images/ellen-d.jpg);
+    background-image: url(../images/warranty.jpg);
     background-repeat: no-repeat;
-    background-size: 22rem;
+    background-size: 25rem;
     background-position: center center;
     height: 15rem;
     margin: 1.5rem 0%;
