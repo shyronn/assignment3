@@ -261,6 +261,20 @@ footer p {
 }
 
 .about{
+    width: 22rem;
+	height: 15rem;
+	background-image: url(../images/ellen-d.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 35rem;
+    margin: 1.5rem 0%;
+    
+    box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
+    
+    border: solid .5rem rgba(252, 238, 33, 1);
+    
+}
+.steve-j{
     width: 8rem;
 	height: 8rem;
 	background-image: url(../images/ellen-d.jpg);
@@ -275,7 +289,8 @@ footer p {
     border-radius: 4rem;
 }
 
-.steve-j{
+
+.sarah-w{
     width: 8rem;
 	height: 8rem;
 	background-image: url(../images/ellen-d.jpg);
@@ -288,6 +303,64 @@ footer p {
     
     border: solid .5rem rgba(252, 238, 33, 1);
     border-radius: 4rem;
+}
+.steve-d{
+    width: 8rem;
+	height: 8rem;
+	background-image: url(../images/ellen-d.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 18rem;
+    margin: 1.5rem 0%;
+    
+    box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
+    
+    border: solid .5rem rgba(252, 238, 33, 1);
+    border-radius: 4rem;
+}
+.ashley-t{
+    width: 8rem;
+	height: 8rem;
+	background-image: url(../images/ellen-d.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 18rem;
+    margin: 1.5rem 0%;
+    
+    box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
+    
+    border: solid .5rem rgba(252, 238, 33, 1);
+    border-radius: 4rem;
+}
+.blair-d{
+    width: 8rem;
+	height: 8rem;
+	background-image: url(../images/ellen-d.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 18rem;
+    margin: 1.5rem 0%;
+    
+    box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
+    
+    border: solid .5rem rgba(252, 238, 33, 1);
+    border-radius: 4rem;
+}
+.tracy-m{
+    width: 8rem;
+	height: 8rem;
+	background-image: url(../images/ellen-d.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 18rem;
+    margin: 1.5rem 0%;
+    
+    box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
+    
+    border: solid .5rem rgba(252, 238, 33, 1);
+    border-radius: 4rem;
+}
+
 
 
 
