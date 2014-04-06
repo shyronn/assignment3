@@ -376,10 +376,10 @@ footer p {
 .original{
     width: 8rem;
 	height: 8rem;
-	background-image: url(../images/ellen-d.jpg);
+	background-image: url(../images/original.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 18rem;
+    background-size: 7rem;
     margin: 1.5rem 0%;
     
     box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
@@ -387,13 +387,13 @@ footer p {
     border: solid .5rem rgba(252, 238, 33, 1);
 }
 
-.original-c{
+.cali{
     width: 8rem;
 	height: 8rem;
-	background-image: url(../images/ellen-d.jpg);
+	background-image: url(../images/cali.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 18rem;
+    background-size: 7rem;
     margin: 1.5rem 0%;
     
     box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
@@ -403,10 +403,10 @@ footer p {
 .red{
     width: 8rem;
 	height: 8rem;
-	background-image: url(../images/ellen-d.jpg);
+	background-image: url(../images/red.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 18rem;
+    background-size: 7rem;
     margin: 1.5rem 0%;
     
     box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
@@ -416,10 +416,10 @@ footer p {
 .budz{
     width: 8rem;
 	height: 8rem;
-	background-image: url(../images/ellen-d.jpg);
+	background-image: url(../images/budz.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 18rem;
+    background-size: 7rem;
     margin: 1.5rem 0%;
     
     box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
@@ -429,10 +429,10 @@ footer p {
 .h2o{
     width: 8rem;
 	height: 8rem;
-	background-image: url(../images/ellen-d.jpg);
+	background-image: url(../images/h2o.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 18rem;
+    background-size: 7rem;
     margin: 1.5rem 0%;
     
     box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
@@ -442,10 +442,10 @@ footer p {
 .zero{
     width: 8rem;
 	height: 8rem;
-	background-image: url(../images/ellen-d.jpg);
+	background-image: url(../images/zero.jpg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 18rem;
+    background-size: 7rem;
     margin: 1.5rem 0%;
     
     box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
