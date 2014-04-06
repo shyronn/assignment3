@@ -120,6 +120,11 @@ h2 span {
     color: red;
 }
 
+p span {
+    color: red;
+    text-transform: uppercase;
+}
+
 .ellen-d {
     margin: 0 3% 1rem;
     overflow: hidden;
@@ -345,6 +350,104 @@ footer p {
     border: solid .5rem rgba(252, 238, 33, 1);
     border-radius: 4rem;
 }
+
+.product{
+   margin: 0 3% 1rem;
+    overflow: hidden;
+    
+    background-color: grey; 
+    background-image: url(../images/ellen-d.jpg);
+    background-repeat: no-repeat;
+    background-size: 22rem;
+    background-position: center center;
+    height: 15rem;
+    margin: 1.5rem 0%;
+        
+    box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
+    
+    border: solid .5rem rgba(252, 238, 33, 1); 
+    
+}
+.original{
+    width: 8rem;
+	height: 8rem;
+	background-image: url(../images/ellen-d.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 18rem;
+    margin: 1.5rem 0%;
+    
+    box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
+    
+    border: solid .5rem rgba(252, 238, 33, 1);
+}
+
+.original-c{
+    width: 8rem;
+	height: 8rem;
+	background-image: url(../images/ellen-d.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 18rem;
+    margin: 1.5rem 0%;
+    
+    box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
+    
+    border: solid .5rem rgba(252, 238, 33, 1);
+}
+.red{
+    width: 8rem;
+	height: 8rem;
+	background-image: url(../images/ellen-d.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 18rem;
+    margin: 1.5rem 0%;
+    
+    box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
+    
+    border: solid .5rem rgba(252, 238, 33, 1);
+}
+.budz{
+    width: 8rem;
+	height: 8rem;
+	background-image: url(../images/ellen-d.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 18rem;
+    margin: 1.5rem 0%;
+    
+    box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
+    
+    border: solid .5rem rgba(252, 238, 33, 1);
+}
+.h2o{
+    width: 8rem;
+	height: 8rem;
+	background-image: url(../images/ellen-d.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 18rem;
+    margin: 1.5rem 0%;
+    
+    box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
+    
+    border: solid .5rem rgba(252, 238, 33, 1);
+}
+.zero{
+    width: 8rem;
+	height: 8rem;
+	background-image: url(../images/ellen-d.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 18rem;
+    margin: 1.5rem 0%;
+    
+    box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
+    
+    border: solid .5rem rgba(252, 238, 33, 1);
+}
+
 
 
 
