@@ -254,20 +254,25 @@ footer p {
     height: 12rem;
     margin: 1.5rem 0%;
         
-    box-shadow: .1rem .4rem .4rem .2rem rgba(0, 0, 0, .1);
+    box-shadow: 0 0 8px rgba(0, 0, 0, .8);
     
     border: solid rem rgba(252, 238, 33, 1);
     border-radius: 10rem; 
 }
 
 .about{
-    width: 150px;
-	height: 150px;
-	border-radius: 75px;
+    width: 10rem;
+	height: 10rem;
 	background-image: url(../images/ellen-d.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 25rem;
+    margin: 1.5rem 0%;
+    
+    box-shadow: .1rem .2rem .4rem .1rem rgba(0, 0, 0, .2);
+    
+    border: solid .5rem rgba(252, 238, 33, 1);
+    border-radius: 5rem;
 }
 
 
