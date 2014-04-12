@@ -36,13 +36,13 @@ img {
 header {
     overflow: hidden;
     background-color: black;
-    height: 9rem;
+    height: 8.75rem;
 }
 
 .logo {
-    width: 19rem;
+    width: 12rem;
     float: left;
-    margin: 1.7rem 1%;
+    margin: .7rem 5%;
 }
 
 .nav-top {
@@ -87,13 +87,15 @@ h1 {
     color: white;
     padding: .5rem;
     letter-spacing: -.05rem;
-    text-align: right
+    text-align: right;
 }
 
 h1 span {
     font-size: 2.5rem;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     letter-spacing: .02rem;
+    padding-right: 5%;
+    
 }  
 
 .billboard {
@@ -229,19 +231,19 @@ h2 span {
 
 footer {
     margin:0;
-    padding: 1.5rem 5% 6rem;
+    padding: 1.5rem 5% 9rem;
     background-color: #FCEE21; 
 }
 
 .logo2 {
-    height: 5rem;
+    height: 3rem;
     width: auto;
     padding: 0;
     float: left;
 }
 
 footer p {
-    margin: 0 0 0 5rem;
+    margin: 0 0 0 12rem;
     color: black;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     line-height: 1.5rem;
