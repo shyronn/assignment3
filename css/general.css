@@ -397,6 +397,7 @@ footer p {
     
     border: solid .5rem rgba(252, 238, 33, 1);
 }
+
 .red{
     width: 8rem;
 	height: 8rem;
@@ -410,6 +411,7 @@ footer p {
     
     border: solid .5rem rgba(252, 238, 33, 1);
 }
+
 .budz{
     width: 8rem;
 	height: 8rem;
@@ -423,6 +425,7 @@ footer p {
     
     border: solid .5rem rgba(252, 238, 33, 1);
 }
+
 .h2o{
     width: 8rem;
 	height: 8rem;
@@ -436,6 +439,7 @@ footer p {
     
     border: solid .5rem rgba(252, 238, 33, 1);
 }
+
 .zero{
     width: 8rem;
 	height: 8rem;
@@ -450,8 +454,27 @@ footer p {
     border: solid .5rem rgba(252, 238, 33, 1);
 }
 
+.logo3 {
+    height: 3.5rem;
+    width: auto;
+    padding-left: 2.75rem;
+    float: left; 
+}
 
+.logo4 {
+    height: 3.5rem;
+    width: auto;
+    padding-left: 1rem;
+    float: left;
+}
 
+.social ul {
+    margin: 0;
+    padding: 0;
+} 
 
-
-
+.social li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
