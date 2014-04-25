@@ -104,7 +104,7 @@ h1 span {
     background-color: black;
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 150%;
+    background-size: 120%;
     margin: auto;   
 }
 
@@ -256,7 +256,7 @@ footer p {
     background-color: grey; 
     background-image: url(../images/nyu.jpg);
     background-repeat: no-repeat;
-    background-size: 120%;
+    background-size: 150%;
     background-position: center center;
     height: 15rem;
     margin: 1.5rem 0%;
