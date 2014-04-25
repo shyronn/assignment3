@@ -457,7 +457,7 @@ footer p {
 .logo3 {
     height: 3.5rem;
     width: auto;
-    padding-left: 1.75rem;
+    padding-left: 0;
     float: left; 
 }
 
@@ -470,7 +470,7 @@ footer p {
 
 .social ul {
     margin: 0;
-    padding: 1rem;
+    padding-top: 1rem;
 } 
 
 .social li {
