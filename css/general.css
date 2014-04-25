@@ -476,5 +476,5 @@ footer p {
 .social li {
     display: inline;
     margin: 0;
-    padding: 0;
+    padding: 1rem;
 }
